@@ -8,3 +8,4 @@ We want to you to create a set of presentation slides summarizing your project.
 
 ### Presentation
 Upload a .PDF of your presentation here for review.
+[Get Weird Project Presentation](https://launchcode.instructure.com/courses/50/assignments/8600?submitted=2)
